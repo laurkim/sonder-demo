@@ -4,6 +4,8 @@
 ## Description
 This is a demo for Sonder, an application built upon a React/Redux front end and Ruby on Rails back end. Sonder uses OAuth2 to verify a user's real Spotify account and then compiles and analyzes the user's listening history. With the user's account data, Sonder will then render the user's top played tracks, create a new playlist that persists to their Spotify account for tracks the user may like based on their listening habits, and upon form submission the application will create a personality analysis based on user input and Spotify listening patterns.
 
+If the demo gifs are running at a slower speed, please reference the similarly named files inside the directory labeled *demo-material*. 
+
 ## Core Features
 1. [OAuth2 Login with Spotify](#oauth2-login-with-spotify)
 2. [Embedded Spotify Player](#embedded-spotify-player)
